@@ -1,7 +1,7 @@
 # bluestock-ipo-web-app
 Follow these command to run this project:
 
-git clone 
+git clone https://github.com/shejaldubey/bluestock-ipo-web-app.git
 
 cd bluestock-ipo-webapp
 
